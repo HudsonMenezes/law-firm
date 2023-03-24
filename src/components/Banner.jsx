@@ -27,7 +27,7 @@ const Banner = () => {
             corporis odio!
           </p>
           {/* Appointment */}
-          <div className="lg:absolut mx-auto max-w-[445px] lg:mx-0">
+          <div className="lg:absolute mx-auto max-w-[445px] lg:mx-0">
             <Appointment />
           </div>
         </div>
