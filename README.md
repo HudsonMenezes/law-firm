@@ -2,11 +2,8 @@
 
 ### ✅ Website desenvolvido para escritórios de advogados onde os clientes podem ter acesso à informações sobre o escritório e entrar em contato com os mesmos.
 
-<br>
 
 ### <p>Projeto foi desenvolvido durante estudos para pôr em prática técnicas de desenvolvimente usando:
-
-<img src="./src/assets/model-readme.png" alt="exemplo imagem">
 
 <br>
 
@@ -17,3 +14,7 @@
 -> <bold>Swiper</bold><br>
 
 </p>
+
+![image](https://user-images.githubusercontent.com/99617992/227629472-67de0608-bde4-4af5-a767-20809cbce670.png)
+
+
