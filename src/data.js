@@ -69,37 +69,37 @@ export const testimonials = [
 export const skills = [
   {
     icon: Skill1,
-    title: "Corruption",
+    title: "Cívil",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
   },
   {
     icon: Skill2,
-    title: "Employment",
+    title: "Trabalho",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
   },
   {
     icon: Skill3,
-    title: "Real Estate",
+    title: "Imobiliário",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
   },
   {
     icon: Skill4,
-    title: "Taxes",
+    title: "Contábil",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
   },
   {
     icon: Skill5,
-    title: "Corporate",
+    title: "Empresarial",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
   },
   {
     icon: Skill6,
-    title: "Banking",
+    title: "Consumidor",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
   },
